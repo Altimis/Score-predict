@@ -3,7 +3,7 @@
 ## Dataset : nobelprize
 
 ## Client et endpoint :
--   Client SPARQL  [YASGUI](http://yasgui.triply.cc/)
+-   Client SPARQL  http://yasgui.triply.cc/
 -   Endpoint : http://data.nobelprize.org/sparql
 
 ### Requete 1
