@@ -34,13 +34,13 @@ WHERE {
 ```
 ### Resultat : 
 comme prévu on trouve Irène Joliot-Curie.
-![enter code here](q1.PNG).
+![enter code here](q1.jpg).
 
 #### RDF de query
 
 Voici le RDF de la premiere query : 
 
-![enter code here](RDF1.PNG).
+![enter code here](RDF1.jpg).
 
 ### Requete 2 
 
@@ -68,10 +68,10 @@ WHERE {
 ```
 #### Le résultat de query
 On obtient comme resultat 3 personnes, ce qui montre que, malgré la brutalité et l'inhumanité du Führer à cette époque, le peuple allemand a toujours été l'un des peuples les plus pacifiques de la terre.
-![enter code here](q2.PNG)
+![enter code here](q2.jpg)
 
 #### RDF de query
 
 Le Rdf de cette requete : 
 
-![enter code here](RDF2.PNG).
+![enter code here](RDF2.jpg).
