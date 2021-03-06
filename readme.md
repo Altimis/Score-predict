@@ -17,7 +17,7 @@ In the second step, I used two approach for predictive modeling :
 
 - TF-IDF + regression in the case of continuous score, and classication if we consider a binary score of 0 or 1 (0 if score < 0.5 and 1 if score > 0.5).  
 - Word embeddings + LSTM model  
-- 
+
 TF-IDF + SVM model for classification achieved the best performance with an Area Under the Curve of P/R of 0.962.
 
 
