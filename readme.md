@@ -34,10 +34,10 @@ In conclusion, the TF-IDF scored better in the classification of the feedback sc
 Execute the offline mode for plotly to be able to show the figures, here are some examples of the figures:
 
 ### Score distribution
-![image info](newplot (8).png "title")  
+![image info](newplot(8).png)  
 
 ### Average rating - Numbre of ratings
-![image info](newplot (9).png)  
+![image info](newplot(9).png)  
 
 ### Polarity - Subjectivity
-![image info](newplot (10).png)  
+![image info](newplot(10).png)  
