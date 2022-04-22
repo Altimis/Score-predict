@@ -1,9 +1,9 @@
 #  Predict the score of feedbacks
 
 ## Description
-In this project, we will examine a dataset of 10,000 feedback from music professional societies (influencer_id) to artists/bands (band_id) accompanied with a score between 0 and 1 (score).  
+In this project, we will examine a dataset of 10,000 feedback from music professional companies (influencer_id) to artists/bands (band_id) accompanied with a score between 0 and 1 (score).  
 
-As expected in this challenge, the objective is to extract relevant information from the data and then use the feedbacks to train a machine learning algorithm in order to be able to predict the score.  
+As expected in this project, the objective is to extract relevant information from the data and then use the feedbacks to train a machine learning algorithm in order to be able to predict the score.  
 
 The first step is the exploratory data analysis where I used some measures and visualizations to :  
 
